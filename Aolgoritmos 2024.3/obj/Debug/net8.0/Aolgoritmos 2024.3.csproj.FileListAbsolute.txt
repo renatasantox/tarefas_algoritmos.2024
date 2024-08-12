@@ -1,0 +1,14 @@
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\bin\Debug\net8.0\Aolgoritmos 2024.3.exe
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\bin\Debug\net8.0\Aolgoritmos 2024.3.deps.json
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\bin\Debug\net8.0\Aolgoritmos 2024.3.runtimeconfig.json
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\bin\Debug\net8.0\Aolgoritmos 2024.3.dll
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\bin\Debug\net8.0\Aolgoritmos 2024.3.pdb
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\obj\Debug\net8.0\Aolgoritmos 2024.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\obj\Debug\net8.0\Aolgoritmos 2024.3.AssemblyInfoInputs.cache
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\obj\Debug\net8.0\Aolgoritmos 2024.3.AssemblyInfo.cs
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\obj\Debug\net8.0\Aolgoritmos 2024.3.csproj.CoreCompileInputs.cache
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\obj\Debug\net8.0\Aolgoritmos 2024.3.dll
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\obj\Debug\net8.0\refint\Aolgoritmos 2024.3.dll
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\obj\Debug\net8.0\Aolgoritmos 2024.3.pdb
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\obj\Debug\net8.0\Aolgoritmos 2024.3.genruntimeconfig.cache
+D:\Users\20241170150020\Desktop\Aolgoritmos 2024.3\obj\Debug\net8.0\ref\Aolgoritmos 2024.3.dll

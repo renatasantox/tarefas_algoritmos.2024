@@ -1,0 +1,14 @@
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\bin\Debug\net8.0\Algoritmos 2024.1.exe
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\bin\Debug\net8.0\Algoritmos 2024.1.deps.json
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\bin\Debug\net8.0\Algoritmos 2024.1.runtimeconfig.json
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\bin\Debug\net8.0\Algoritmos 2024.1.dll
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\bin\Debug\net8.0\Algoritmos 2024.1.pdb
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\obj\Debug\net8.0\Algoritmos 2024.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\obj\Debug\net8.0\Algoritmos 2024.1.AssemblyInfoInputs.cache
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\obj\Debug\net8.0\Algoritmos 2024.1.AssemblyInfo.cs
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\obj\Debug\net8.0\Algoritmos 2024.1.csproj.CoreCompileInputs.cache
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\obj\Debug\net8.0\Algoritmos 2024.1.dll
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\obj\Debug\net8.0\refint\Algoritmos 2024.1.dll
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\obj\Debug\net8.0\Algoritmos 2024.1.pdb
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\obj\Debug\net8.0\Algoritmos 2024.1.genruntimeconfig.cache
+D:\Users\20241170150020\Desktop\Algoritmos 2024.1\obj\Debug\net8.0\ref\Algoritmos 2024.1.dll
